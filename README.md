@@ -1,11 +1,11 @@
 # angular2
 angular 2 typescript kurulum dosyaları
 >dılo abinin yeri youtube eğitim kanalı tarafından yüklendi
->kurmak için 
+>kurulum  için 
 
 >
 
->npm start ve npm intsall komutu vermeniz yeterli
+>npm install ve npm start komutu vermeniz yeterli
 
 >angular 2 dersleri için link
 
